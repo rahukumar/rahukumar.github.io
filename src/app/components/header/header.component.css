@@ -1,0 +1,55 @@
+.container {
+    background-color: #6bbbae;
+}
+.row {
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.list-contact .header-hotline .header-openings {
+    font-size: 1.25rem;
+}
+
+.c-w {
+    color: #ffff;
+}
+
+.list-unstyled, .gform_wrapper ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.list-contact {
+    margin: 0;
+    font-weight: 700;
+}
+
+.list-contact a {
+    color: inherit;
+}
+
+a {
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.t-a-r {
+    text-align: right;
+}
+
+.logo-slogan {
+    font-size: .75rem;
+    margin-left: 40px;
+}
+
+.logo-text {
+    height: 30px;
+    vertical-align: middle;
+    border-style: none;
+}
+
+.logoContainer {
+    display: flex;
+    color: white;
+}
